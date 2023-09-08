@@ -33,8 +33,8 @@ Certainly, here are the steps from the "Adding module federation" section of the
 2. Update the `exposes` property in the `ModuleFederationPlugin` configuration to expose the components you want to share. For example:
    ```javascript
    exposes: {
-     "./Header": "./src/Header.jsx",
-     "./Footer": "./src/Footer.jsx"
+     "./Header": "./src/component/Header.jsx",
+     "./Footer": "./src/component/Footer.jsx"
    }
    ```
 
