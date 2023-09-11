@@ -23,7 +23,7 @@
 
 These steps guide you in setting up the initial structure for your micro-frontends using Create React App templates and configuring them to run independently.
 
-THen create header and footer component in home and create about  component in about folder
+Then create header and footer component in home and create about  component in about folder
 
 
 Certainly, here are the steps from the "Adding module federation" section of the provided blog post, summarized in bullet points:
